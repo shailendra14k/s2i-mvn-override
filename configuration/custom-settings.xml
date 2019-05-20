@@ -9,7 +9,8 @@
     <!-- ### configured servers ### -->
   </servers>
 
-
+<offline>true</offline>
+          
   <mirrors>
     <!-- ### configured mirrors ### -->
   </mirrors>
